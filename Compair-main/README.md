@@ -1,3 +1,10 @@
+# Compair Project
+
+### About Me
+- Author: Srishti Verma
+- Purpose: Learning Git & GitHub
+
+
 # Price Comparison Platform
 ## Project Overview
 The Price Comparison Platform is an advanced web application designed to revolutionize the way users make purchasing decisions. This robust platform intelligently compares product prices sourced from two major e-commerce giants, Flipkart and Reliance Digital. By providing users with access to the best deals available, it empowers them to make well-informed choices, ensuring a seamless and cost-effective shopping experience.
